@@ -14,6 +14,7 @@ Join Grup WhatsApp <a href="https://chat.whatsapp.com/HK8AZ6R8qXGEoSnmvM3gdB">TK
 ## Install script on Termux
 ```php
 $ pkg update && pkg upgrade
+$ git clone https://github.com/jshaq/NO-RECODE-BOSS
 $ pkg install bash
 $ bash tools tools fb.sh
 
